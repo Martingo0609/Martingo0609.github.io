@@ -1,0 +1,87 @@
+span{
+  background-color: RGB
+ 170, 126, 207;
+  padding:10px;
+  border: aqua 3px solid;
+  border-radius: 50px;
+}
+
+
+body{
+font-family: arial;
+margin-left:450px;
+background-image: url(imagenes/fondofams.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+}
+
+
+div.productos{
+
+  padding:10px;
+  border: black 3px solid;
+}
+
+div.reloj1{
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+div.reloj2{
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.reloj3{
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.reloj4{
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.equipo{
+font-family: arial;
+margin-left: 230;
+
+
+
+}
+
+h1{
+font-family:monospace;
+font-size: 30px;
+
+
+}
+
+
+a{
+color: aqua;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+a:active{
+  color: red;
+}
+
+a:visited{
+  color: aqua;
+}
+
+a:focus{
+  background-color: lightgrey;
+}
